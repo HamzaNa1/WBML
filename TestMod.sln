@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WBML", "WBML\WBML.csproj", "{FA91F3E1-0A68-4ECF-B3E1-7F0759F38353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WBML.Test", "WBML.Test\WBML.Test.csproj", "{0075C5E6-FED4-43EB-952C-D2FEEBEB335F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA91F3E1-0A68-4ECF-B3E1-7F0759F38353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA91F3E1-0A68-4ECF-B3E1-7F0759F38353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA91F3E1-0A68-4ECF-B3E1-7F0759F38353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA91F3E1-0A68-4ECF-B3E1-7F0759F38353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0075C5E6-FED4-43EB-952C-D2FEEBEB335F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0075C5E6-FED4-43EB-952C-D2FEEBEB335F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0075C5E6-FED4-43EB-952C-D2FEEBEB335F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0075C5E6-FED4-43EB-952C-D2FEEBEB335F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
